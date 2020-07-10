@@ -12,4 +12,9 @@ Step 3: Paste all the 12 files which you have extracted by unziping the file (Ba
 
 Step 4: Now, run the Screen1.cpp file in your TurboC or TurboC++ software.
 
+## Credentials to be entered while running the program.
+
+Username: Anuja
+Password: Sandwich
+
 **(YOU CANNOT RUN THIS PROGRAM IF YOU STORE THE FILES AT DIFFERENT LOCATION BECAUSE THE PATH USED FOR STORING THE DATABASE IS STRICTLY C:\TURBOC3\BIN\BANKING. IF YOU STORE THE FILES AT DIFFERENT LOCATION, YOUR DATA WILL NOT BE SAVED IN THE DATABASE, ALSO OTHER HEADER FILES MAY GIVE ERRORS)**
